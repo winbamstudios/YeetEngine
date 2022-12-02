@@ -1,7 +1,7 @@
 # Yeet Engine
 
 
-![yeet engine logo](Yeet Engine.png)
+![Yeet Engine logo](assets/preload/images/YeetEngineLogo.png)
 
 
 
